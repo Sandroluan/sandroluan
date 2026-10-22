@@ -4,25 +4,13 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento 
 
 ---
 
-### 📌 Sobre mim
+### Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🛠️ Desenvolvendo **projetos acadêmicos e pessoais** focados na construção de APIs RESTful
-- 📚 Aprofundando conhecimentos em **Node.js**, **MySQL** e **PostgreSQL**
-- 🧠 Explorando os primeiros conceitos de **Machine Learning**
+-  Cursando **Análise e Desenvolvimento de Sistemas**
+-  Desenvolvendo **projetos acadêmicos e pessoais** focados na construção de APIs RESTful
+-  Aprofundando conhecimentos em **Node.js**, **MySQL** e **PostgreSQL**
+-  Explorando os primeiros conceitos de **Machine Learning**
 
----
-
-### 🚀 Projetos em Destaque
-
-- **[api-projeto-final-java](https://github.com/Sandroluan/api-projeto-final-java):** API feito em node para um projeto da faculdade.  
-  *Tecnologias:* Node.js, Express, MySQL, JWT, CORS,
-
-- **[Personal_art_diary
-](https://github.com/Sandroluan/Personal_art_diary):** um diario pessoal de arte, com os quadros que eu gosto e meus comentários do porquê de cada um  
-  *Tecnologias:* Node.js, Express, MySQL, REACT
-
----
 
 ### 🛠️ Tecnologias e Ferramentas
 
